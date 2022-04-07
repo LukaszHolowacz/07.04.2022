@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">07.04.2022</string>
+    <string name="zdj_text">Zdjęcia</string>
+    <string name="poprzednie_text">Poprzednie</string>
+    <string name="nastepne_text">Następne</string>
 </resources>
