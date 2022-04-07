@@ -21,30 +21,32 @@
 
     <Button
         android:id="@+id/poprzednie"
-        android:layout_width="150dp"
+        android:layout_width="140dp"
         android:layout_height="50dp"
+        android:background="#FFFFFF"
         android:backgroundTint="#FFFFFF"
         android:text="@string/poprzednie_text"
         android:textSize="20sp"
         android:textStyle="bold|italic"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.22"
+        app:layout_constraintHorizontal_bias="0.206"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView"
-        app:layout_constraintVertical_bias="0.208" />
+        app:layout_constraintVertical_bias="0.207" />
 
     <Button
         android:id="@+id/nastepne"
-        android:layout_width="150dp"
+        android:layout_width="140dp"
         android:layout_height="50dp"
+        android:background="#F8F8F8"
         android:backgroundTint="#FFFFFF"
         android:text="@string/nastepne_text"
         android:textSize="20sp"
         android:textStyle="bold|italic"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.796"
+        app:layout_constraintHorizontal_bias="0.797"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView"
         app:layout_constraintVertical_bias="0.207" />
